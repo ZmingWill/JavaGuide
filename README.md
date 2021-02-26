@@ -35,7 +35,7 @@ Java脱坑指南
 # 目录(善用Ctrl+F)
 
 - 面试知识点合集：
-- [谈谈面向对象思想](/Users/FeiQiu/github/JavaGuide/Interview/面向对象思想的理解.md)
+- [谈谈面向对象思想](https://github.com/ZmingWill/JavaGuide/blob/main/Interview/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E6%80%9D%E6%83%B3%E7%9A%84%E7%90%86%E8%A7%A3.md)
 
 
 **注 : 没链接的是还没写**
